@@ -3,13 +3,12 @@
 ## About Me
 - 💻 Fullstack Javascript Engineer with a focus on Angular with 8 years of experience.
 
+
+<img src="https://github.com/ravigaudani0909/ravigaudani0909/assets/126670676/4444b0ca-857d-4938-a760-32e531d46fb1" width="250"/>
+
+
 ## Connect with Me
 - 💼 [LinkedIn](https://de.linkedin.com/in/ravigaudani)
 
-## Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ravigaudani0909&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravigaudani0909&hide_progress=true&theme=radical)
 
 Feel free to explore my repositories and let's connect! 😊
