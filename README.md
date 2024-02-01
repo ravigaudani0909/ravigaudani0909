@@ -1,5 +1,3 @@
-# Welcome to my GitHub Profile 👋
-
 ## About Me
 - 💻 Fullstack Javascript Engineer with a focus on Angular with 8 years of experience.
 
